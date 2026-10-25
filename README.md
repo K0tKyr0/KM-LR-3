@@ -114,6 +114,4 @@ $$
 ![](anim_delta_t_p_frames_bar_e_0.gif)
 ![](anim_delta_t_p_frames_p_nom.gif)
 
----
 
-## 🗂 Структура репозитория
